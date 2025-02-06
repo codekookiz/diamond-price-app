@@ -1,1 +1,1 @@
-# housing-price-app
+# diamond-price-app
